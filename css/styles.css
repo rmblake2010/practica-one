@@ -1,0 +1,48 @@
+
+
+
+body{
+    background-color: gray;
+}
+
+#wrapper{
+    background-color: white;
+    margin-right:auto;
+    margin-left: auto;
+    width: 80%;
+}
+
+#title_one{
+    text-align:center;
+    padding: 50px;
+}
+
+#div_two{
+    margin-left:30px;
+    
+}
+
+#anchor_one{
+    
+    display: block;
+    padding-bottom: 100px;
+    
+}
+
+/*
+a{
+    cursor: url("../cursor_02.gif"),  default;
+}
+
+did not work that well
+
+*/
+
+
+#paragraph_one{
+    margin-right: 50px;
+}
+
+a{
+    color: green;
+}
